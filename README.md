@@ -4,7 +4,11 @@ Hi 👋 My name is Muxtorbek
 MERN Stack developer
 --------------------
 
-I have been trying for 1 year to become a MERN Stack programmer. MERN Stack is a compilation of four different technologies that work together to develop dynamic web apps and websites. It is a contraction for four different technologies as mentioned below: M - MongoDB E - ExpressJS R - ReactJS N - NodeJS
+I have been trying for 1 year to become a MERN Stack programmer. MERN Stack is a compilation of four different technologies that work together to develop dynamic web apps and websites. It is a contraction for four different technologies as mentioned below:
+ - M - MongoDB 
+ - E - ExpressJS 
+ - R - ReactJS 
+ - N - NodeJS
 
 * 🌍  I'm based in Toshkent
 * ✉️  You can contact me at [muxtorbekravshanov9@gmail.com](mailto:muxtorbekravshanov9@gmail.com)
