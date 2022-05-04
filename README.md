@@ -55,10 +55,11 @@ src="https://img.shields.io/github/followers/MuxtorbekDev?logo=github&style=for-
 
 <div width="100%" align="center"><a href="https://github.com/MuxtorbekDev/socialNetwork-NodeJs-MySQL" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuxtorbekDev&repo=socialNetwork-NodeJs-MySQL&title_color=3382ed&text_color=facc15&icon_color=6366f1&bg_color=171717&hide_border=true&locale=en" /></a><a href="https://github.com/MuxtorbekDev/Weather-NextJs" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuxtorbekDev&repo=Weather-NextJs&title_color=3382ed&text_color=facc15&icon_color=6366f1&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+<br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/MuxtorbekDev/NewsApp-React-Redux" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuxtorbekDev&repo=NewsApp-React-Redux&title_color=3382ed&text_color=facc15&icon_color=6366f1&bg_color=171717&hide_border=true&locale=en" /></a><a href="https://github.com/MuxtorbekDev/spoonacularApi" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuxtorbekDev&repo=spoonacularApi&title_color=3382ed&text_color=facc15&icon_color=6366f1&bg_color=171717&hide_border=true&locale=en" /></a></div>
 
+<br /><br /><br />
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/muxtorbekrdev "><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
