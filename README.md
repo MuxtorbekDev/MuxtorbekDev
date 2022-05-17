@@ -15,7 +15,7 @@ I have been trying for 1 year to become a MERN Stack programmer. MERN Stack is a
 
 <a href="https://www.twitter.com/MuxtorbekDev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/MuxtorbekRavsh1?logo=twitter&style=for-the-badge&color=6366f1&labelColor=171717"
-/></a><a href="https://www.github.com/MuxtorbekDev" target="_blank" rel="noreferrer"><img
+/></a><a href="https://www.github.com/MuxtorbekRavsh1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MuxtorbekDev?logo=github&style=for-the-badge&color=6366f1&labelColor=171717" /></a>
 ### Skills
 
